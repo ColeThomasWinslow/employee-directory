@@ -27,11 +27,12 @@ class App extends React.Component {
   
    
     return <div>
-      <h1>Employees go here</h1>   
+    <div class="jumbotron">
+      <h1 class="display-4" >Employee Directory</h1>   </div>
        <SearchForm/>
       <ResultTable results={this.state.results}/>
-  
-      </div>
+  </div>
+      
   }
 }
 
