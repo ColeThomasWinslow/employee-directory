@@ -11,4 +11,4 @@ I want to be able to view and manage all employees information in my company
 So that I can organize and communicate better with my staff.
 ```
 # Display
-![img](./img.png)
+![img](img/Employee_Dir_img.png)
